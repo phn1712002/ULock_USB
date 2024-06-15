@@ -1,4 +1,5 @@
 @echo off
+cls
 setlocal EnableDelayedExpansion
 echo Turn on CAPSLOCK and Run as adminstrator
 pause
